@@ -1,0 +1,75 @@
+/* 
+
+#395701
+#567112
+#e9a000
+#feb813
+#fa562a
+#e4440e
+ */
+
+
+/* Position sticky */
+.stick {
+    position: fixed;
+    left: 0;
+    border: 0.01rem black solid;
+}
+
+h3 {
+    background-color: #fa562a;
+    color: white;
+}
+
+h3:hover {
+background-color: #feb813;
+color: black;
+}
+
+.box1 {
+    /* background-color: #567112; */
+    text-align: center;
+    height:100%;
+    width: 100%;
+    max-width: 100%;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    
+}
+
+.img1 {
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+}
+
+.header-text {
+    margin-top:-44px;
+    font-style: italic;
+}
+ .open-quotation {
+    font-size:150px;
+    line-height:0.6em;
+    opacity:0.2;
+ }
+ .open-quotation::after {
+     content: "\275D";
+ }
+
+ .w3-light-grey {
+     color: grey!important;
+ }
+
+ .body {
+     margin-left: 25rem;
+     margin-right: 3.5rem;
+ }
+
+ .milwaukee {
+     font-size: 10rem;
+ }
+
+ .centers {
+     text-align: center;
+     font-size: 2rem;
+ }
